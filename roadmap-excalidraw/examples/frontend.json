@@ -1,0 +1,61 @@
+{
+  "title": "Frontend",
+  "topics": [
+    {
+      "name": "Internet",
+      "subtopics": [
+        { "name": "How does the internet work?", "level": "recommended" },
+        { "name": "What is HTTP?", "level": "recommended" },
+        { "name": "DNS and how it works", "level": "recommended" },
+        { "name": "Browsers and how they work", "level": "optional" }
+      ]
+    },
+    {
+      "name": "HTML",
+      "subtopics": [
+        { "name": "Learn the basics", "level": "recommended" },
+        { "name": "Writing Semantic HTML", "level": "recommended" },
+        { "name": "Forms and Validations", "level": "recommended" },
+        { "name": "Accessibility", "level": "optional" }
+      ]
+    },
+    {
+      "name": "CSS",
+      "subtopics": [
+        { "name": "Learn the basics", "level": "recommended" },
+        { "name": "Making layouts", "level": "recommended" },
+        { "name": "Responsive design", "level": "recommended" }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "subtopics": [
+        { "name": "Learn the basics", "level": "recommended" },
+        { "name": "DOM manipulation", "level": "recommended" },
+        { "name": "Fetch API / Ajax", "level": "recommended" }
+      ]
+    },
+    {
+      "name": "Version Control",
+      "subtopics": [
+        { "name": "Git", "level": "recommended" },
+        { "name": "GitHub", "level": "recommended" }
+      ]
+    },
+    {
+      "name": "Package Managers",
+      "subtopics": [
+        { "name": "npm", "level": "recommended" },
+        { "name": "pnpm", "level": "optional" }
+      ]
+    },
+    {
+      "name": "Framework",
+      "subtopics": [
+        { "name": "React", "level": "recommended" },
+        { "name": "Vue.js", "level": "optional" },
+        { "name": "Svelte", "level": "optional" }
+      ]
+    }
+  ]
+}

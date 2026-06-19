@@ -10,6 +10,7 @@ Each skill lives in its own directory containing a `SKILL.md` file with frontmat
 | Skill | Description |
 | --- | --- |
 | [notebooklm-cli](./notebooklm-cli) | Operate the NotebookLM CLI (`nlm`) — manage notebooks, sources, research, and generate artifacts (audio, reports, quizzes, mind maps, slides, videos, and more). |
+| [roadmap-excalidraw](./roadmap-excalidraw) | Build roadmap.sh-style learning roadmaps as editable Excalidraw scenes — central dashed spine, yellow topics, purple subtopics — from a simple outline. |
 
 ## Installing a skill
 
