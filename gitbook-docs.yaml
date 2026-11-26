@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: "awesome-skills"
+  structure:
+    - type: space
+      key: space-awesome-skills
+      title: "awesome-skills"
+      path: awesome-skills
+      default: true
+      content:
+        directory: ./
